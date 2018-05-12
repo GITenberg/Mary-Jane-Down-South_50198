@@ -1,9 +1,13 @@
 _repo: Mary-Jane-Down-South_50198
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: White, Frances
     gutenberg_agent_id: '45746'
     url: http://www.gutenberg.org/2009/agents/45746
+covers:
+- cover_type: archival
+  image_path: 50198-h/images/cover.jpg
 creator:
   author:
     agent_name: Judson, Clara Ingram
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '2917'
     url: http://www.gutenberg.org/2009/agents/2917
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50198#Mary-Jane-Down-South
 gutenberg_issued: '2015-10-13'
 gutenberg_type: Text
 identifiers:
